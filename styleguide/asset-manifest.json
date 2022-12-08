@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main.js": "/build/bundle.c13d54a5.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "build/bundle.c13d54a5.js"
+  ]
+}
